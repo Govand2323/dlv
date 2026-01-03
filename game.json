@@ -24,14 +24,14 @@
                             "items": [
                                 {
                                     "itemId": "it_missions_01",
-                                    "title": "Bugstars Equipment ok? No Problem",
+                                    "title": "Bugstars Equipment",
                                     "description": "Prerequisite: Choose the Smart Approach to the Jewel Heist.\n\nGold Medal Requirements:\n- Sneaky Pest - Steal the Bugstars van without being detected",
                                     "x": 0.4697,
                                     "y": 0.0756,
                                     "iconOverride": "",
                                     "itemColorOverride": "",
                                     "relatedItems": [],
-                                    "youtubeVideo": "https://youtu.be/VQRLujxTm3c?si=hc6F_o_ArgW22DVF&t=77"
+                                    "youtubeVideo": ""
                                 },
                                 {
                                     "itemId": "it_missions_02",
