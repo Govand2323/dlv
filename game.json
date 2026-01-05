@@ -1,7 +1,7 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 1,
+    "dataVersion": 2,
     "updateNotes": [
         "Improved map accuracy for Los Santos",
         "New collectibles added"
@@ -3748,10 +3748,32 @@
                             "items": [
                                 {
                                     "itemId": "it_shootingrange_01",
-                                    "title": "LShooting Range",
+                                    "title": "Shooting Range",
                                     "description": "Shooting Range",
                                     "x": 0.5241,
                                     "y": 0.1481,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_shootingrange_02",
+                                    "title": "Shooting Range",
+                                    "description": "Shooting Range",
+                                    "x": 0.4638,
+                                    "y": 0.2433,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_shootingrange_03",
+                                    "title": "Ammu-Nation & Shooting Range",
+                                    "description": "Discounts: 10% off all Bronze Shooting Range Medals 15% off all Silver Shooting Range Medals 20% off all Gold Shooting Range Medals Note All discounts are for the character you did the Shooting Range with!",
+                                    "x": 0.4586,
+                                    "y": 0.2375,
                                     "iconOverride": "",
                                     "itemColorOverride": "",
                                     "relatedItems": [],
@@ -3796,6 +3818,97 @@
                                         "it_missions_26"
                                     ],
                                     "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_tennis_02",
+                                    "title": "Tennis Courts",
+                                    "description": "Tennis can only be played by Michael and Trevor after the Complications mission. In GTA Online, it is unlocked after Rank 6.",
+                                    "x": 0.3281,
+                                    "y": 0.3481,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_tennis_03",
+                                    "title": "Tennis Courts",
+                                    "description": "Tennis can only be played by Michael and Trevor after the Complications mission. In GTA Online, it is unlocked after Rank 6.",
+                                    "x": 0.3491,
+                                    "y": 0.3177,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_tennis_04",
+                                    "title": "Tennis Courts",
+                                    "description": "Tennis can only be played by Michael and Trevor after the Complications mission. In GTA Online, it is unlocked after Rank 6.",
+                                    "x": 0.2252,
+                                    "y": 0.3271,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_tennis_05",
+                                    "title": "Tennis Courts",
+                                    "description": "Outside Michael's House.\n\nTennis can only be played by Michael and Trevor after the Complications mission. In GTA Online, it is unlocked after Rank 6.",
+                                    "x": 0.3961,
+                                    "y": 0.3376,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_tennis_06",
+                                    "title": "Tennis Courts",
+                                    "description": "Tennis can only be played by Michael and Trevor after the Complications mission. In GTA Online, it is unlocked after Rank 6.",
+                                    "x": 0.4969,
+                                    "y": 0.3066,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_tennis_07",
+                                    "title": "Tennis Courts",
+                                    "description": "Tennis can only be played by Michael and Trevor after the Complications mission. In GTA Online, it is unlocked after Rank 6.",
+                                    "x": 0.3838,
+                                    "y": 0.2258,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_tennis_08",
+                                    "title": "Tennis Courts",
+                                    "description": "Tennis can only be played by Michael and Trevor after the Complications mission. In GTA Online, it is unlocked after Rank 6.",
+                                    "x": 0.3647,
+                                    "y": 0.1920,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26"
+                                    ],
+                                    "youtubeVideo": ""
                                 }
                             ]
                         },
@@ -3826,7 +3939,7 @@
                             "items": [
                                 {
                                     "itemId": "it_triathlon_01",
-                                    "title": "Triathlon",
+                                    "title": "Triathlon #1",
                                     "description": "Unlocks after the Daddy's Little Girl mission.",
                                     "x": 0.3618,
                                     "y": 0.1591,
@@ -3834,6 +3947,32 @@
                                     "itemColorOverride": "",
                                     "relatedItems": [
                                         "it_missions_53"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_triathlon_02",
+                                    "title": "Triathlon #2",
+                                    "description": "Unlocks after participating in Triathlon #1.",
+                                    "x": 0.6539,
+                                    "y": 0.6735,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_triathlon_01"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_triathlon_03",
+                                    "title": "Triathlon #3",
+                                    "description": "Unlocks after participating in Triathlon #2.",
+                                    "x": 0.5851,
+                                    "y": 0.6314,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_triathlon_02"
                                     ],
                                     "youtubeVideo": ""
                                 }
@@ -3855,6 +3994,138 @@
                                     "itemColorOverride": "",
                                     "relatedItems": [],
                                     "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_02",
+                                    "title": "The Decline",
+                                    "description": "Parachuting",
+                                    "x": 0.4362,
+                                    "y": 0.8583,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_03",
+                                    "title": "Runaway Train",
+                                    "description": "Parachuting",
+                                    "x": 0.3957,
+                                    "y": 0.6881,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_04",
+                                    "title": "Razor Rock Dive",
+                                    "description": "Parachuting",
+                                    "x": 0.3971,
+                                    "y": 0.6744,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_05",
+                                    "title": "Falling Mouse",
+                                    "description": "Parachuting",
+                                    "x": 0.3552,
+                                    "y": 0.6946,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_06",
+                                    "title": "Carving the Mountain",
+                                    "description": "Parachuting",
+                                    "x": 0.3461,
+                                    "y": 0.6779,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_07",
+                                    "title": "Turbine Terror",
+                                    "description": "Parachuting",
+                                    "x": 0.6534,
+                                    "y": 0.4456,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_08",
+                                    "title": "Photo Finish",
+                                    "description": "Parachuting",
+                                    "x": 0.5580,
+                                    "y": 0.3423,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_09",
+                                    "title": "Dammed If You Don't",
+                                    "description": "Parachuting",
+                                    "x": 0.5407,
+                                    "y": 0.3133,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_10",
+                                    "title": "Aim for the Fairway",
+                                    "description": "Parachuting",
+                                    "x": 0.3944,
+                                    "y": 0.3517,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_11",
+                                    "title": "Bank Bailout",
+                                    "description": "The parachute is just outside the Maze Bank building. A helicopter will take you to the top.",
+                                    "x": 0.4510,
+                                    "y": 0.2554,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_12",
+                                    "title": "What Goes Up...",
+                                    "description": "The parachute is found at the top of the yellow crane.",
+                                    "x": 0.4461,
+                                    "y": 0.2480,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_parachuting_13",
+                                    "title": "Pacific Tour",
+                                    "description": "Parachuting",
+                                    "x": 0.3913,
+                                    "y": 0.2234,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
                                 }
                             ]
                         },
@@ -3870,6 +4141,451 @@
                                     "description": "Yoga",
                                     "x": 0.3920,
                                     "y": 0.3399,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_yoga_02",
+                                    "title": "Yoga",
+                                    "description": "Yoga",
+                                    "x": 0.6859,
+                                    "y": 0.8037,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sectionId": "sec_entertainment",
+                    "sectionName": "ENTERTAINMENT",
+                    "elements": [
+                        {
+                            "elementId": "el_cinema",
+                            "elementName": "Ten Cent Theater",
+                            "elementIcon": "Used Icons/cinema",
+                            "elementColor": "#DF5F7D",
+                            "items": [
+                                {
+                                    "itemId": "it_cinema_01",
+                                    "title": "Ten Cent Theater",
+                                    "description": "Can be purchased as Michael",
+                                    "x": 0.4889,
+                                    "y": 0.2611,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_cinema_02",
+                                    "title": "Doppler Cinema",
+                                    "description": "Can be purchased as Michael",
+                                    "x": 0.4782,
+                                    "y": 0.3437,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_cinema_03",
+                                    "title": "Tivoli Cinema",
+                                    "description": "Can be purchased as Michael",
+                                    "x": 0.3434,
+                                    "y": 0.3092,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_stripclub",
+                            "elementName": "Strip Club",
+                            "elementIcon": "Used Icons/heels",
+                            "elementColor": "#DF5F7D",
+                            "items": [
+                                {
+                                    "itemId": "it_stripclub_01",
+                                    "title": "Ten Cent Theater",
+                                    "description": "Can be purchased as Michael",
+                                    "x": 0.4668,
+                                    "y": 0.2201,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sectionId": "sec_services",
+                    "sectionName": "SERVICES",
+                    "elements": [
+                        {
+                            "elementId": "el_carwash",
+                            "elementName": "Car Wash",
+                            "elementIcon": "Used Icons/car-wash",
+                            "elementColor": "#FFB449",
+                            "items": [
+                                {
+                                    "itemId": "it_carwash_01",
+                                    "title": "Car Wash",
+                                    "description": "Car Wash",
+                                    "x": 0.4602,
+                                    "y": 0.2139,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_carwash_02",
+                                    "title": "Car Wash",
+                                    "description": "Car Wash",
+                                    "x": 0.3998,
+                                    "y": 0.2501,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_hospital",
+                            "elementName": "Hospital",
+                            "elementIcon": "Used Icons/hospital",
+                            "elementColor": "#FFB449",
+                            "items": [
+                                {
+                                    "itemId": "it_hospital_01",
+                                    "title": "St Fiacre Hospital",
+                                    "description": "Hospital",
+                                    "x": 0.5509,
+                                    "y": 0.2026,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hospital_02",
+                                    "title": "Central Los Santos Medical Center",
+                                    "description": "Hospital",
+                                    "x": 0.4858,
+                                    "y": 0.2125,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hospital_03",
+                                    "title": "Pillbox Hill Medical Center",
+                                    "description": "Hospital",
+                                    "x": 0.4863,
+                                    "y": 0.2779,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hospital_04",
+                                    "title": "Mount Zonah Medical Center",
+                                    "description": "Hospital",
+                                    "x": 0.4199,
+                                    "y": 0.2982,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hospital_05",
+                                    "title": "Portola Trinity Medical Center",
+                                    "description": "Hospital",
+                                    "x": 0.3879,
+                                    "y": 0.3012,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hospital_06",
+                                    "title": "Eclipse Medical Tower",
+                                    "description": "Hospital",
+                                    "x": 0.4062,
+                                    "y": 0.3509,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hospital_07",
+                                    "title": "Sandy Shores Medical Center",
+                                    "description": "Hospital",
+                                    "x": 0.6052,
+                                    "y": 0.6205,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hospital_08",
+                                    "title": "The Bay Care Center",
+                                    "description": "Hospital",
+                                    "x": 0.4340,
+                                    "y": 0.8293,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_firestation",
+                            "elementName": "Fire Station",
+                            "elementIcon": "Used Icons/fire-station",
+                            "elementColor": "#FFB449",
+                            "items": [
+                                {
+                                    "itemId": "it_firestation_01",
+                                    "title": "Paleto Bay Fire Station",
+                                    "description": "Paleto Bay Fire Company 1\n- Engine 1\n- Engine 1-2\n- Truck 1\n- Rescue 1\n- Tanker 1\n- Attack 1",
+                                    "x": 0.4283,
+                                    "y": 0.8179,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_firestation_02",
+                                    "title": "Sandy Shores Fire Station",
+                                    "description": "Fire Station",
+                                    "x": 0.5942,
+                                    "y": 0.6141,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_firestation_03",
+                                    "title": "Fort Zancudo Fire Station",
+                                    "description": "Fire Station",
+                                    "x": 0.2886,
+                                    "y": 0.5527,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_firestation_04",
+                                    "title": "Fire Department Headquarters",
+                                    "description": "Fire Station",
+                                    "x": 0.4069,
+                                    "y": 0.3168,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_firestation_05",
+                                    "title": "Davis Fire Dept.",
+                                    "description": "Fire Station",
+                                    "x": 0.4754,
+                                    "y": 0.1931,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_firestation_06",
+                                    "title": "LSIA Fire Dept.",
+                                    "description": "Fire Department Station in Los Santos International Airport",
+                                    "x": 0.3731,
+                                    "y": 0.1364,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_firestation_07",
+                                    "title": "Fire Station 7",
+                                    "description": "Opposite the petrol station.",
+                                    "x": 0.5542,
+                                    "y": 0.2074,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_policestation",
+                            "elementName": "Police Station",
+                            "elementIcon": "Used Icons/police-station",
+                            "elementColor": "#FFB449",
+                            "items": [
+                                {
+                                    "itemId": "it_policestation_01",
+                                    "title": "Paleto Bay Police Station",
+                                    "description": "Police Station",
+                                    "x": 0.4226,
+                                    "y": 0.8082,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_02",
+                                    "title": "Sandy Shores Police Station",
+                                    "description": "Police Station",
+                                    "x": 0.6070,
+                                    "y": 0.6219,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_03",
+                                    "title": "Beaver Bush Ranger Station",
+                                    "description": "Suburban Park Ranger Vehicle is found here",
+                                    "x": 0.4896,
+                                    "y": 0.3900,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_04",
+                                    "title": "Vinewood Police Department",
+                                    "description": "Police Station",
+                                    "x": 0.5093,
+                                    "y": 0.3248,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_05",
+                                    "title": "Rockford Hills Police Station",
+                                    "description": "Police Station",
+                                    "x": 0.4130,
+                                    "y": 0.3162,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_06",
+                                    "title": "International Affairs Agency",
+                                    "description": "Police Station",
+                                    "x": 0.4684,
+                                    "y": 0.2748,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_07",
+                                    "title": "FIB Headquarters",
+                                    "description": "Police Station",
+                                    "x": 0.4660,
+                                    "y": 0.2668,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_08",
+                                    "title": "Mission Row Police Department",
+                                    "description": "Home of the impound lot in story mode.",
+                                    "x": 0.4966,
+                                    "y": 0.2465,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_09",
+                                    "title": "La Mesa Police Station",
+                                    "description": "Police Station",
+                                    "x": 0.5260,
+                                    "y": 0.2217,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_10",
+                                    "title": "Davis Sheriff's Station",
+                                    "description": "Police Station",
+                                    "x": 0.4885,
+                                    "y": 0.1965,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_11",
+                                    "title": "Vespucci Police Department",
+                                    "description": "Police Station",
+                                    "x": 0.3711,
+                                    "y": 0.2606,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_12",
+                                    "title": "Del Perro Police Station",
+                                    "description": "Police Station",
+                                    "x": 0.3326,
+                                    "y": 0.2482,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_policestation_13",
+                                    "title": "Vespucci Beach Police Station",
+                                    "description": "Police Station",
+                                    "x": 0.3523,
+                                    "y": 0.2033,
                                     "iconOverride": "",
                                     "itemColorOverride": "",
                                     "relatedItems": [],
