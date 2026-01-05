@@ -1,6 +1,13 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
+    "dataVersion": 3,
+  "updateNotes": [
+    "Added 12 new Hidden Packages",
+    "Added YouTube guides for Stunt Jumps",
+    "Improved map accuracy for Los Santos",
+    "New collectibles added to Blaine County"
+  ],
     "maps": [
         {
             "mapId": "map_ls",
@@ -24,7 +31,7 @@
                             "items": [
                                 {
                                     "itemId": "it_missions_01",
-                                    "title": "Bugstars Equipment first mission lol",
+                                    "title": "Bugstars Equipment",
                                     "description": "Prerequisite: Choose the Smart Approach to the Jewel Heist.\n\nGold Medal Requirements:\n- Sneaky Pest - Steal the Bugstars van without being detected",
                                     "x": 0.4697,
                                     "y": 0.0756,
