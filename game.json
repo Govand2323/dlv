@@ -1,13 +1,13 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 5,
-  "updateNotes": [
-    "Added 12 new Hidden Packages",
-    "Added YouTube guides for Stunt Jumps",
-    "Improved map accuracy for Los Santos",
-    "New collectibles added to Blaine County"
-  ],
+    "dataVersion": 0,
+    "updateNotes": [
+        "Improved map accuracy for Los Santos",
+        "New collectibles added"
+    ],
+    "discord": "https://discord.gg/EzzD4VxPwg",
+    "youtube": "https://www.youtube.com/@Mr23TVx",
     "maps": [
         {
             "mapId": "map_ls",
@@ -31,7 +31,7 @@
                             "items": [
                                 {
                                     "itemId": "it_missions_01",
-                                    "title": "Bugstars Equipment but this is the way",
+                                    "title": "Bugstars Equipment",
                                     "description": "Prerequisite: Choose the Smart Approach to the Jewel Heist.\n\nGold Medal Requirements:\n- Sneaky Pest - Steal the Bugstars van without being detected",
                                     "x": 0.4697,
                                     "y": 0.0756,
@@ -3711,96 +3711,6 @@
                                         "it_lennyaveryrealty_15"
                                     ],
                                     "youtubeVideo": ""
-                                },
-                                {
-                                    "itemId": "it_book_02",
-                                    "title": "Hidden Book",
-                                    "description": "Hidden in a secret compartment.",
-                                    "x": 0.58,
-                                    "y": 0.31,
-                                    "iconOverride": "",
-                                    "itemColorOverride": "#FF0000",
-                                    "relatedItems": [
-                                        "it_book_01"
-                                    ],
-                                    "youtubeVideo": "https://www.youtube.com/watch?v=aNub95OAKYQ"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "mapId": "map_sa",
-            "mapName": "San Andreas",
-            "atlasImage": "Maps/GTAV-atlas",
-            "atlasColor": "#13A7D2",
-            "satelliteImage": "Maps/GTAV-satellite",
-            "satelliteColor": "#133D6B",
-            "roadmapImage": "",
-            "roadmapColor": "#1863AD",
-            "sections": [
-                {
-                    "sectionId": "sec_locations",
-                    "sectionName": "LOCATIONS",
-                    "elements": [
-                        {
-                            "elementId": "el_ladder",
-                            "elementName": "Ladder",
-                            "elementIcon": "Icon-Symbols/Art/Brush",
-                            "elementColor": "#AAD700",
-                            "items": [
-                                {
-                                    "itemId": "it_ladder_01",
-                                    "title": "Downtown Ladder",
-                                    "description": "A long ladder located in the downtown alley.",
-                                    "x": 0.62,
-                                    "y": 0.41,
-                                    "iconOverride": "",
-                                    "itemColorOverride": "#AAD700",
-                                    "relatedItems": [
-                                        "it_ladder_02"
-                                    ],
-                                    "youtubeVideo": ""
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "sectionId": "sec_pickups",
-                    "sectionName": "PICKUPS",
-                    "elements": [
-                        {
-                            "elementId": "el_books",
-                            "elementName": "Books",
-                            "elementIcon": "icon_book.png",
-                            "elementColor": "#FF66CC",
-                            "items": [
-                                {
-                                    "itemId": "it_book_01",
-                                    "title": "Library Book",
-                                    "description": "Found inside the Franklin library. Found inside the Franklin library.",
-                                    "x": 0.45,
-                                    "y": 0.72,
-                                    "iconOverride": "Icon-Symbols/Books-Archives/Notebook-List",
-                                    "itemColorOverride": "",
-                                    "relatedItems": [],
-                                    "youtubeVideo": ""
-                                },
-                                {
-                                    "itemId": "it_book_02",
-                                    "title": "Hidden Book",
-                                    "description": "Hidden in a secret compartment.",
-                                    "x": 0.58,
-                                    "y": 0.31,
-                                    "iconOverride": "",
-                                    "itemColorOverride": "#FF0000",
-                                    "relatedItems": [
-                                        "it_book_01"
-                                    ],
-                                    "youtubeVideo": "https://youtu.be/video123"
                                 }
                             ]
                         }
