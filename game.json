@@ -1,7 +1,7 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 0,
+    "dataVersion": 1,
     "updateNotes": [
         "Improved map accuracy for Los Santos",
         "New collectibles added"
@@ -3666,6 +3666,210 @@
                                     "description": "Food & Drink",
                                     "x": 0.4581,
                                     "y": 0.8328,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sectionId": "sec_activities",
+                    "sectionName": "ACTIVITIES",
+                    "elements": [
+                        {
+                            "elementId": "el_darts",
+                            "elementName": "Darts",
+                            "elementIcon": "Used Icons/target",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_darts_01",
+                                    "title": "Darts",
+                                    "description": "Can be played by Franklin, Michael, and Trevor - but only after completing the Crystal Maze mission.",
+                                    "x": 0.6176,
+                                    "y": 0.5705,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_76"
+                                    ],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_races",
+                            "elementName": "Races",
+                            "elementIcon": "Used Icons/raceflag",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_races_01",
+                                    "title": "North East Coast",
+                                    "description": "Sea Race",
+                                    "x": 0.7343,
+                                    "y": 0.7421,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_flightschool",
+                            "elementName": "Flight School",
+                            "elementIcon": "Used Icons/plane",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_flightschool_01",
+                                    "title": "LSI Flight School",
+                                    "description": "Unlocks after the Friends Reunited mission. Earn a medal in each of the trials for progress towards 100% completion.\n\nTrials:\n- Training Take Off\n- Runway Landing\n- Inverted Flight\n- Knife Flight\n- Flat Hatting\n- Touch Down\n- Loop the Loop\n- Helicopter Course\n- Helicopter Speed Run\n- Skydiving\n- Drop Zone\n- Earn Your Wings",
+                                    "x": 0.3683,
+                                    "y": 0.1127,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_77"
+                                    ],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_shootingrange",
+                            "elementName": "Shooting Range",
+                            "elementIcon": "Icon-Symbols/Aims-Targets/Aim-Target-Accuracy-Cross-2",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_shootingrange_01",
+                                    "title": "LShooting Range",
+                                    "description": "Shooting Range",
+                                    "x": 0.5241,
+                                    "y": 0.1481,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_golfing",
+                            "elementName": "Golfing",
+                            "elementIcon": "Used Icons/golf",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_golfing_01",
+                                    "title": "Los Santos Golf Club",
+                                    "description": "Golfing",
+                                    "x": 0.3502,
+                                    "y": 0.3305,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_tennis",
+                            "elementName": "Tennis",
+                            "elementIcon": "Used Icons/tennis-racket",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_tennis_01",
+                                    "title": "Tennis Courts",
+                                    "description": "Tennis can only be played by Michael and Trevor after the Complications mission. In GTA Online, it is unlocked after Rank 6.",
+                                    "x": 0.3592,
+                                    "y": 0.3551,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26"
+                                    ],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_hunting",
+                            "elementName": "Hunting",
+                            "elementIcon": "Used Icons/deer",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_hunting_01",
+                                    "title": "Hunting",
+                                    "description": "Exclusive to Trevor.",
+                                    "x": 0.3197,
+                                    "y": 0.7013,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_triathlon",
+                            "elementName": "Triathlon",
+                            "elementIcon": "Used Icons/triathlon",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_triathlon_01",
+                                    "title": "Triathlon",
+                                    "description": "Unlocks after the Daddy's Little Girl mission.",
+                                    "x": 0.3618,
+                                    "y": 0.1591,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_53"
+                                    ],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_parachuting",
+                            "elementName": "Parachuting",
+                            "elementIcon": "Used Icons/parachute",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_parachuting_01",
+                                    "title": "The Fall of the Alamo",
+                                    "description": "Parachuting",
+                                    "x": 0.6633,
+                                    "y": 0.7242,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_yoga",
+                            "elementName": "Yoga",
+                            "elementIcon": "Used Icons/yoga",
+                            "elementColor": "#3875D7",
+                            "items": [
+                                {
+                                    "itemId": "it_yoga_01",
+                                    "title": "Yoga",
+                                    "description": "Yoga",
+                                    "x": 0.3920,
+                                    "y": 0.3399,
                                     "iconOverride": "",
                                     "itemColorOverride": "",
                                     "relatedItems": [],
