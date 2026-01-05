@@ -1,10 +1,10 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 2,
+    "dataVersion": 3,
     "updateNotes": [
         "Improved map accuracy for Los Santos",
-        "New collectibles added"
+        "New collectibles added",
     ],
     "discord": "https://discord.gg/EzzD4VxPwg",
     "youtube": "https://www.youtube.com/@Mr23TVx",
@@ -4630,6 +4630,218 @@
                                         "it_lennyaveryrealty_14",
                                         "it_lennyaveryrealty_15"
                                     ],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sectionId": "sec_places",
+                    "sectionName": "PLACES",
+                    "elements": [
+                        {
+                            "elementId": "el_buildings",
+                            "elementName": "Building",
+                            "elementIcon": "Used Icons/building",
+                            "elementColor": "#9C307F",
+                            "items": [
+                                {
+                                    "itemId": "it_building_01",
+                                    "title": "Cluckin' Bell Headquarters",
+                                    "description": "Cluckin Bell Headquarters. Blow up trucks here to make Burger Shot stock go up!",
+                                    "x": 0.4493,
+                                    "y": 0.8241,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_02",
+                                    "title": "PostOP HQ",
+                                    "description": "Building",
+                                    "x": 0.4253,
+                                    "y": 0.8213,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_03",
+                                    "title": "Paleto Forest Motel",
+                                    "description": "Building",
+                                    "x": 0.4038,
+                                    "y": 0.7920,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_04",
+                                    "title": "Hospital & Police Station",
+                                    "description": "The Sandy Shores Hospital and Police Station in 1 building.",
+                                    "x": 0.6065,
+                                    "y": 0.6224,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_05",
+                                    "title": "Fort Zancudo Military Base",
+                                    "description": "US Army base. Full of useful vehicles, but dangerous to enter if not prepared for a heavy fight with highly trained soldiers, and a full 5 star police chase afterwards.",
+                                    "x": 0.2875,
+                                    "y": 0.5771,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_06",
+                                    "title": "Entry to base",
+                                    "description": "Building",
+                                    "x": 0.3051,
+                                    "y": 0.5979,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_07",
+                                    "title": "Crew Territory 1",
+                                    "description": "- Submarine Spawns Sometimes\n- 2 houses\n- 1 Main Crew Property",
+                                    "x": 0.7659,
+                                    "y": 0.6901,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_08",
+                                    "title": "Cape Catfish",
+                                    "description": "A small village near Mount Gordo",
+                                    "x": 0.7661,
+                                    "y": 0.6848,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_09",
+                                    "title": "Humane Labs and Research",
+                                    "description": "Building",
+                                    "x": 0.7391,
+                                    "y": 0.6236,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_10",
+                                    "title": "IAA Agents",
+                                    "description": "Building",
+                                    "x": 0.7009,
+                                    "y": 0.6162,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_11",
+                                    "title": "Abandoned Motel",
+                                    "description": "The Old Abandoned Motel sits and is half demolished.",
+                                    "x": 0.5850,
+                                    "y": 0.6164,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_12",
+                                    "title": "Liquor Ace",
+                                    "description": "Trevor's meth lab. Health pack on the counter beside the cash register.",
+                                    "x": 0.5711,
+                                    "y": 0.6164,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_13",
+                                    "title": "Power Station",
+                                    "description": "Building",
+                                    "x": 0.6801,
+                                    "y": 0.4509,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_14",
+                                    "title": "Ron Alternates Wind Farm",
+                                    "description": "Building",
+                                    "x": 0.6376,
+                                    "y": 0.5026,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_15",
+                                    "title": "Boilingbroke Peniteniary",
+                                    "description": "Prison",
+                                    "x": 0.5941,
+                                    "y": 0.5342,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_16",
+                                    "title": "Rebel Radio Station Base",
+                                    "description": "Rebel Radio Station Base",
+                                    "x": 0.5190,
+                                    "y": 0.5286,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_17",
+                                    "title": "Truck Stop",
+                                    "description": "Building",
+                                    "x": 0.6664,
+                                    "y": 0.3574,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_building_18",
+                                    "title": "La Fuente Blanca",
+                                    "description": "Large Ranch owned by Martin Madrazo, which serves as territory for the Madrazo Cartel.",
+                                    "x": 0.5749,
+                                    "y": 0.4199,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
                                     "youtubeVideo": ""
                                 }
                             ]
