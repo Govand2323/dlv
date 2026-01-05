@@ -1,10 +1,10 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 3,
+    "dataVersion": 4,
     "updateNotes": [
         "Improved map accuracy for Los Santos",
-        "New collectibles added",
+        "New collectibles added"
     ],
     "discord": "https://discord.gg/EzzD4VxPwg",
     "youtube": "https://www.youtube.com/@Mr23TVx",
