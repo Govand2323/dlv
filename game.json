@@ -1,12 +1,15 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 5,
+    "dataVersion": 6,
     "updateNotes": [
-        "Improved map accuracy for Los Santos",
-        "New Buildings added"
+        "Added new section for Places",
+        "Added 95 Buildings",
+        "Added 8 Mountain Peak Locations",
+        "Added 15 Lookout Points",
+        "Added 21 Properties"
     ],
-    "loadTime": "180",
+    "loadTime": "200",
     "discord": "https://discord.gg/EzzD4VxPwg",
     "youtube": "https://www.youtube.com/@Mr23TVx",
     "maps": [
@@ -5796,6 +5799,407 @@
                                     "description": "Cost: $30,000\nCharacters: Michael\nIncome: N/A\n\nThis garage allows Michael to store up to 4 cars.\n\nDrive up to the large door in the parking lot and press RIGHT on the D-pad to park your current vehicle inside. Alternatively, approach on foot and press RIGHT on the D-pad to enter on foot and select a vehicle.\n\nAdditionally, special vehicles, such as the Collector's Edition Hotknife and Carbon RS, and the Social Club Exclusive Elegy RH8, may be obtained by pressing RIGHT on the D-pad once inside.",
                                     "x": 0.4540,
                                     "y": 0.3311,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_10",
+                                    "title": "Property: Tequi-La-La",
+                                    "description": "Cost: $2,000,000\nCharacters: Any\nIncome: $16,500 / week\n\nTequi-La-La is a bar that also offers concerts.\n\nNote: This is one of the better investments to make, as it becomes profitable relatively quickly.",
+                                    "x": 0.4117,
+                                    "y": 0.3489,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_11",
+                                    "title": "Property: Los Santos Golf Club",
+                                    "description": "Cost: $150,000,000\nCharacters: Any\nIncome: $264,500 / week\n\nThis property grants the purchaser the ability to play golf for free, and wear any clothing while golfing.\n\nNote: This property is potentially the worst investment to make, due to the sheer amount of time it takes to turn a profit.",
+                                    "x": 0.3469,
+                                    "y": 0.3241,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_12",
+                                    "title": "Property: Tivoli Cinema",
+                                    "description": "Cost: $30,000,000\nCharacters: Michael\nIncome: $142,300 / week\n\nTivoli Cinema provides the citizens of Los Santos with feature films.\n\nOccasionally Michael will be called to defend the theater from gang attacks, promote the theater by air-dropping flyers, or recovering cash after a robbery.",
+                                    "x": 0.3454,
+                                    "y": 0.3054,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_13",
+                                    "title": "Property: Los Santos International Hangar",
+                                    "description": "Cost: $1,378,000\nCharacters: Franklin, Michael\nIncome: N/A\n\nThis property grants each character a single, large hangar to store purchased or stolen aircraft. When standing at the entrance of the hangar, press RIGHT on the D-pad to select which aircraft to pilot.\n\nAlso, after purchasing a Rhino on the Internet, it will be saved within this hangar.",
+                                    "x": 0.3785,
+                                    "y": 0.1039,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_14",
+                                    "title": "Property: Ten Cent Theater",
+                                    "description": "Cost: $20,000,000\nCharacters: Michael\nIncome: $264,000 / week\n\nTen Cent Theater provides the citizens of Los Santos with feature films and other shows.\n\nOccasionally Michael will be called to defend the theater from gang attacks, promote the theater by air-dropping flyers, or recovering cash after a robbery.",
+                                    "x": 0.4890,
+                                    "y": 0.2696,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_15",
+                                    "title": "Property: Pillbox Hill Garage",
+                                    "description": "Cost: $30,000\nCharacters: Trevor\nIncome: N/A\n\nThis garage allows for Trevor to store up to 4 cars.\n\nDrive up to the large door in the parking lot and press RIGHT on the D-pad to park your current vehicle inside. Alternatively, approach on foot and press RIGHT on the D-pad to enter on foot and select a vehicle.\n\nAdditionally, special vehicles, such as the Collector's Edition Hotknife and Carbon RS, and the Social Club Exclusive Elegy RH8, may be obtained by pressing RIGHT on the D-pad once inside.",
+                                    "x": 0.4416,
+                                    "y": 0.2326,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_16",
+                                    "title": "Property: Car Scrapyard",
+                                    "description": "Cost: $275,000\nCharacters: Any\nIncome: $150 / destroyed vehicle\n\nThis property grants the purchaser a weekly income that is dependent on how many vehicles have been destroyed through gameplay.\n\nOccasionally the purchaser will be called to defend the scrapyard from attacks.",
+                                    "x": 0.5794,
+                                    "y": 0.1561,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_17",
+                                    "title": "Property: Towing Impound",
+                                    "description": "Cost: $150,000\nCharacters: Franklin\nIncome: $500 / towed car\n\nThis property allows Franklin to tow cars for profit using the Tow Truck that spawns after purchase.",
+                                    "x": 0.4927,
+                                    "y": 0.1933,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_18",
+                                    "title": "Property: Grove Street Garage",
+                                    "description": "Cost: $30,000\nCharacters: Franklin\nIncome: N/A\n\nThis garage allows for Franklin to store up to 4 cars.\n\nDrive up to the large door in the parking lot and press RIGHT on the D-pad to park your current vehicle inside. Alternatively, approach on foot and press RIGHT on the D-pad to enter on foot and select a vehicle.\n\nAdditionally, special vehicles, such as the Collector's Edition Hotknife and Carbon RS, and the Social Club Exclusive Elegy RH8, may be obtained by pressing RIGHT on the D-pad once inside.",
+                                    "x": 0.4546,
+                                    "y": 0.1776,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_19",
+                                    "title": "Property: Puerto del Sol Marina Slip",
+                                    "description": "Cost: $75,000\nCharacters: Any\nIncome: N/A\n\nThis property offers each character a single marina slip to park any purchased or stolen vessels.\n\nNote: The marina slip functions like hangars or helipads, allowing each character to stow multiple vessels. When standing near the slip, press RIGHT on the D-pad to select which vessel to use.",
+                                    "x": 0.3915,
+                                    "y": 0.2178,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_20",
+                                    "title": "Property: Vespucci Helipad",
+                                    "description": "Cost: $419,850\nCharacters: Franklin, Micheal\nIncome: N/A\n\nThis property grants each character a single helipad for any purchased or stolen helicopters. When standing near the helipad, press RIGHT on the D-pad to select which helicopter to use.",
+                                    "x": 0.3971,
+                                    "y": 0.2076,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_property_21",
+                                    "title": "Property: Smoke on the Water",
+                                    "description": "Cost: $204,000\nCharacters: Franklin\nIncome: $9,300 / week\n\nSmoke on the Water provides prescribed patients cannabis legally.\n\nOccasionally Franklin will be called and asked for help to retrieve shipments, recover stolen shipments, or evade police.",
+                                    "x": 0.3640,
+                                    "y": 0.1974,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_mountainpeak",
+                            "elementName": "Mountain Peak",
+                            "elementIcon": "Used Icons/mountain",
+                            "elementColor": "#9C307F",
+                            "items": [
+                                {
+                                    "itemId": "it_mountainpeak_01",
+                                    "title": "Mount Gordo Peak",
+                                    "description": "Mountain Peak",
+                                    "x": 0.6873,
+                                    "y": 0.8027,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_mountainpeak_02",
+                                    "title": "Mount Chiliad Peak",
+                                    "description": "Mountain Peak",
+                                    "x": 0.4971,
+                                    "y": 0.7712,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_mountainpeak_03",
+                                    "title": "San Chianski Mountain Peak",
+                                    "description": "Mountain Peak",
+                                    "x": 0.7228,
+                                    "y": 0.5800,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_mountainpeak_04",
+                                    "title": "Mount Josiah Peak",
+                                    "description": "Mountain Peak",
+                                    "x": 0.3628,
+                                    "y": 0.6343,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_mountainpeak_05",
+                                    "title": "Banham Canyon Mountain Peak",
+                                    "description": "Mountain Peak",
+                                    "x": 0.2704,
+                                    "y": 0.4367,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_mountainpeak_06",
+                                    "title": "Tataviam Mountains Peak",
+                                    "description": "Mountain Peak",
+                                    "x": 0.6411,
+                                    "y": 0.3573,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_mountainpeak_07",
+                                    "title": "Mountain Peak",
+                                    "description": "Mountain Peak",
+                                    "x": 0.6103,
+                                    "y": 0.3061,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_mountainpeak_08",
+                                    "title": "Palomino Highlands Mountain Peak",
+                                    "description": "Mountain Peak",
+                                    "x": 0.6182,
+                                    "y": 0.1997,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_lookoutpoint",
+                            "elementName": "Lookout Point",
+                            "elementIcon": "Used Icons/lookout-point",
+                            "elementColor": "#9C307F",
+                            "items": [
+                                {
+                                    "itemId": "it_lookoutpoint_01",
+                                    "title": "Cosy cove",
+                                    "description": "Cool beach with nice view onto the light house.",
+                                    "x": 0.7209,
+                                    "y": 0.7551,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_02",
+                                    "title": "Mount Chiliad Lookout Point",
+                                    "description": "Mount Chiliad has 2 lookout telescopes that anyone can use for $1. Also at this point, a 100% completed game and a rainy/stormy night at 3:00 in the morning, a UFO can be spotted.",
+                                    "x": 0.4952,
+                                    "y": 0.7694,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_03",
+                                    "title": "Lookout Point",
+                                    "description": "Lookout Point",
+                                    "x": 0.6685,
+                                    "y": 0.6220,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_04",
+                                    "title": "Air Field",
+                                    "description": "Lookout Point",
+                                    "x": 0.5704,
+                                    "y": 0.5783,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_05",
+                                    "title": "Galileo Observatory",
+                                    "description": "Lookout Point",
+                                    "x": 0.4239,
+                                    "y": 0.4117,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_06",
+                                    "title": "Lookout Point",
+                                    "description": "Lookout Point",
+                                    "x": 0.3643,
+                                    "y": 0.4003,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_07",
+                                    "title": "Lookout Point",
+                                    "description": "Lookout Point",
+                                    "x": 0.3487,
+                                    "y": 0.3850,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_08",
+                                    "title": "Lookout Point",
+                                    "description": "Lookout Point",
+                                    "x": 0.1950,
+                                    "y": 0.4040,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_09",
+                                    "title": "Boat Dock",
+                                    "description": "Lookout Point",
+                                    "x": 0.1838,
+                                    "y": 0.4028,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_10",
+                                    "title": "Lookout Point",
+                                    "description": "Lookout Point",
+                                    "x": 0.3154,
+                                    "y": 0.3119,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_11",
+                                    "title": "Lookout Point",
+                                    "description": "Lookout Point",
+                                    "x": 0.3245,
+                                    "y": 0.2458,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_12",
+                                    "title": "Boardwalk",
+                                    "description": "Lookout Point",
+                                    "x": 0.3263,
+                                    "y": 0.2381,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_13",
+                                    "title": "Del Pierro Park",
+                                    "description": "Lookout Point",
+                                    "x": 0.3114,
+                                    "y": 0.2288,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_14",
+                                    "title": "Airport",
+                                    "description": "Lookout Point",
+                                    "x": 0.3587,
+                                    "y": 0.0937,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_lookoutpoint_15",
+                                    "title": "Helicopter",
+                                    "description": "Lookout Point",
+                                    "x": 0.4761,
+                                    "y": 0.0623,
                                     "iconOverride": "",
                                     "itemColorOverride": "",
                                     "relatedItems": [],
