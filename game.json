@@ -1,7 +1,7 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 6,
+    "dataVersion": 7,
     "updateNotes": [
         "Added new section for Places",
         "Added 95 Buildings",
@@ -12,6 +12,7 @@
     "loadTime": "200",
     "discord": "https://discord.gg/EzzD4VxPwg",
     "youtube": "https://www.youtube.com/@Mr23TVx",
+    "website": "",
     "maps": [
         {
             "mapId": "map_ls",
