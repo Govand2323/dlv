@@ -1,15 +1,13 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 7,
+    "dataVersion": 8,
     "updateNotes": [
-        "Added new section for Places",
-        "Added 95 Buildings",
-        "Added 8 Mountain Peak Locations",
-        "Added 15 Lookout Points",
-        "Added 21 Properties"
+        "Added Strangers & Freaks objectives",
+        "Added Online Map, click on map selection dropdown above",
+        "More Online Map updates coming this week"
     ],
-    "loadTime": "200",
+    "loadTime": "300",
     "discord": "https://discord.gg/EzzD4VxPwg",
     "youtube": "https://www.youtube.com/@Mr23TVx",
     "website": "",
@@ -4613,7 +4611,7 @@
                                 {
                                     "itemId": "it_s&f_01",
                                     "title": "Josh (1) - Extra Commission",
-                                    "description": "Character: Trevor \nJosh tasks you with destroying 15 Lenny Avery Realty signs, found in the locations listed below.",
+                                    "description": "Character: Trevor \nJosh tasks you with destroying 15 Lenny Avery Realty signs, found in the locations listed below.\n\nGold Medal Requirements:\n- None",
                                     "x": 0.3700,
                                     "y": 0.3475,
                                     "iconOverride": "",
@@ -4635,6 +4633,865 @@
                                         "it_lennyaveryrealty_14",
                                         "it_lennyaveryrealty_15"
                                     ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_02",
+                                    "title": "Dom (2) - Liquidity Risk",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Dive Bomber - Survive a water landing without opening the parachute\n- Sky Blazer - Perform 8 flips on the Blazer",
+                                    "x": 0.3817,
+                                    "y": 0.1043,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_03",
+                                    "title": "Barry (5) - Grass Roots - The Drag",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Hooked - Keep the stash car hooked until delivery\n- Mission Time - Complete within 1:30",
+                                    "x": 0.4203,
+                                    "y": 0.1859,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_04",
+                                    "title": "Rampage (3) - Ballas",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Get 50 Kills\n- Get 6 Headshots\n- Destroy 2 Vehicles",
+                                    "x": 0.4440,
+                                    "y": 0.1930,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_05",
+                                    "title": "Tonya (3) - Pulling Favors Again",
+                                    "description": "Character: Franklin\n\nCall Tonya after completing Pulling Another Favor to begin this mission.\n\nGold Medal Requirements:\n- Mission Time - Complete within 7:00\n- Unhook Bonus - Keep the vehicle hooked until delivery",
+                                    "x": 0.4520,
+                                    "y": 0.2037,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_06",
+                                    "title": "Tonya (4) - Still Pulling Favors",
+                                    "description": "Character: Franklin\n\nCall Tonya after completing Pulling Favors Again to begin this mission.\n\nGold Medal Requirements:\n- Mission Time - Complete within 6:00\n- Unhook Bonus - Keep the vehicle hooked until delivery",
+                                    "x": 0.4554,
+                                    "y": 0.2035,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_07",
+                                    "title": "Tonya (5) - Pulling One Last Favor",
+                                    "description": "Character: Franklin\n\nCall Tonya after Still Pulling Favors to begin her final mission.\n\nGold Medal Requirements:\n- Mission Time - Complete within 5:00\n- Unhook Bonus - Keep the vehicle hooked until delivery",
+                                    "x": 0.4593,
+                                    "y": 0.2035,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_08",
+                                    "title": "Tonya (2) - Pulling Another Favor",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Mission Time - Complete within 5:30\n- Unhook Bonus - Keep the vehicle hooked until delivery",
+                                    "x": 0.4575,
+                                    "y": 0.2060,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_09",
+                                    "title": "Tonya (1) - Pulling Favors",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Mission Time - Complete within 5:00\n- Unhook Bonus - Keep the vehicle hooked until delivery",
+                                    "x": 0.4545,
+                                    "y": 0.2062,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_10",
+                                    "title": "Nigel (7) - The Last Act",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Skin of your Teeth - Exit the car just before the train hits.\n- Locomotivation - Kill Al Di Napoli using the train.",
+                                    "x": 0.4545,
+                                    "y": 0.2156,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_11",
+                                    "title": "Hao - Shift Work",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Fastest Lap - Complete a lap within 01:20\n- Underdog - Finish the race within 02:50\n- Clean Race - Finish the race with less than 5 collisions\n\nCompleting this mission unlocks Street Races.",
+                                    "x": 0.4520,
+                                    "y": 0.2233,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_12",
+                                    "title": "Rampage (2) - Vagos",
+                                    "description": "Trevor's Mission\n\nGold Medal Requirements:\n- Get 45 Kills\n- Get 6 Headshots\n- Destroy 2 Vehicles",
+                                    "x": 0.4959,
+                                    "y": 0.1771,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_13",
+                                    "title": "Josh (2) - Closing the Deal",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Pulverized - Use a melee weapon to beat up Avery\n- Seized - Stop Avery's car within 40 seconds",
+                                    "x": 0.5038,
+                                    "y": 0.1843,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_14",
+                                    "title": "Josh (3) - Surreal Estate",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Out of the Frying Pan - Complete without alerting the cops\n- Pyromaniac - Pour the gasoline trail perfectly in one go",
+                                    "x": 0.5058,
+                                    "y": 0.1843,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_15",
+                                    "title": "Barry (4) - Grass Roots - The Pickup",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Mission Time - Complete within 02:45\n- Unwanted Outcome - Complete without gaining a wanted level",
+                                    "x": 0.5517,
+                                    "y": 0.2195,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_16",
+                                    "title": "Barry (3) - Grass Roots - Franklin",
+                                    "description": "Character: Franklin\n\nPrerequisite: Complete Three's Company\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.4920,
+                                    "y": 0.2649,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_17",
+                                    "title": "Barry (1) - Grass Roots - Michael",
+                                    "description": "Character: Michael\n\nPrerequisite: Complete Complications and Tonya - Pulling Favors\n\nGold Medal Requirements:\n- Unmarked - Complete with minimal damage to health and armor\n- Kill Chain - Kill 7 aliens in 10 seconds",
+                                    "x": 0.4739,
+                                    "y": 0.2520,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26",
+                                        "it_s&f_09"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_18",
+                                    "title": "Barry (2) - Grass Roots - Trevor",
+                                    "description": "Character: Trevor\n\nPrerequisite: Complete Three's Company\n\nGold Medal Requirements:\n- Pre-Emptive Strike - Destroy 4 clown vans before they can generate clowns\n- Greatest Dancer - Kill 6 clowns whilst they are dancing",
+                                    "x": 0.4729,
+                                    "y": 0.2481,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_19",
+                                    "title": "Dom (3) - Targeted Risk",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Dare Devil - Fall for 8 seconds before opening the parachute\n- Bullseye - Land perfectly on the back of the truck",
+                                    "x": 0.4536,
+                                    "y": 0.2591,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_20",
+                                    "title": "Beverly (5) - The Highness",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Silent Snapper - Snap the princess without being detected\n- Royal Drag - Snap the princess buying the drugs",
+                                    "x": 0.5430,
+                                    "y": 0.2835,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_21",
+                                    "title": "Rampage (5) - Hipsters",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Get 30 Kills\n- Get 10 Headshots\n- Destroy 2 Vehicles",
+                                    "x": 0.5546,
+                                    "y": 0.2946,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_22",
+                                    "title": "Dom (4) - Uncalculated Risk",
+                                    "description": "Character: Franklin\n\nPrerequisite: Complete all 13 Parachute Jumps, listed below.\n\nGold Medal Requirements:\n- Leap of Faith - Jump after Dom and survive the fall",
+                                    "x": 0.5967,
+                                    "y": 0.3320,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_parachuting_01",
+                                        "it_parachuting_02",
+                                        "it_parachuting_03",
+                                        "it_parachuting_04",
+                                        "it_parachuting_05",
+                                        "it_parachuting_06",
+                                        "it_parachuting_07",
+                                        "it_parachuting_08",
+                                        "it_parachuting_09",
+                                        "it_parachuting_10",
+                                        "it_parachuting_11",
+                                        "it_parachuting_12",
+                                        "it_parachuting_13"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_23",
+                                    "title": "Epsilon (5) - Bearing the Truth",
+                                    "description": "Character: Michael\n\nPrerequisite: Donate $10,000 through the epsilonprogram.com website after the Chasing the Truth mission.\n\nGold Medal Requirements:\n- None\n\nNote: Do not switch to other characters or begin activities that change Michael's clothes, or the 10-day timer will reset. Sleeping in Michael's house can speed up the process.",
+                                    "x": 0.5115,
+                                    "y": 0.3300,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_24",
+                                    "title": "Barry (6) - Grass Roots - The Smoke-In",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.4780,
+                                    "y": 0.2942,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_25",
+                                    "title": "Beverly (4) - The Meltdown",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Thick of it - Stay close to Poppy throughout the chase\n- DUI Diva - Snap Poppy after she's been cuffed",
+                                    "x": 0.4817,
+                                    "y": 0.3392,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_26",
+                                    "title": "Epsilon (2) - Accepting the Truth",
+                                    "description": "Character: Michael\n\nPrerequisite: Donate $500 through the epsilonprogram.com website after the Seeking the Truth mission.\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.4793,
+                                    "y": 0.3542,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_27",
+                                    "title": "Beverly (2) - The Sex Tape",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Quick Dip - Jump in the pool whilst following Beverly\n- Money Shot - Achieve full facial recognition during chase",
+                                    "x": 0.4525,
+                                    "y": 0.3495,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_28",
+                                    "title": "Beverly (1) - Paparazzo",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Smack Down - Ensure Beverly takes out his rival on the first attempt\n- Picture Perfect - Help Beverly snap and inspect 3 photographs",
+                                    "x": 0.4472,
+                                    "y": 0.3492,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_29",
+                                    "title": "Beverly (3) - The Partnership",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.4379,
+                                    "y": 0.3496,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_30",
+                                    "title": "Beverly (6) - Reality Check",
+                                    "description": "Character: Franklin\n\nGold Medal Requirements:\n- Explosive Action! - Kill Beverly and his crew with one shot",
+                                    "x": 0.4191,
+                                    "y": 0.3444,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_31",
+                                    "title": "Nigel (2) - Vinewood Souvenirs - Willie",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Entourage - Spend time with manager and groupies on the second floor of the club\n- Fist Fury - Take no damage during the fight with Willie",
+                                    "x": 0.4140,
+                                    "y": 0.3480,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_32",
+                                    "title": "Epsilon (8) - Unknowing the Truth",
+                                    "description": "Character: Michael\n\nPrerequisite: Have at least $50,000 and wear the Epsilon Robes.\n\nGold Medal Requirements:\n- Cult Intervention - Kill all Epsilon security\n- Show me the Money - Steal the Epsilon money and escape",
+                                    "x": 0.4030,
+                                    "y": 0.3264,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_33",
+                                    "title": "Nigel (4) - Vinewood Souvenirs - Kerry",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Hot on the Paws - Stay close to Dexie throughout chase.",
+                                    "x": 0.4089,
+                                    "y": 0.3051,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_34",
+                                    "title": "Nigel (6) - Vinewood Souvenirs - Al Di Napoli",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Stalker - Stay close to Al Di Napoli throughout the chase.\n- Accident and Emergency - Avoid hitting anyone in the hospital.\n- Not a Scratch - Complete with minimal damage to Nigel's car",
+                                    "x": 0.3505,
+                                    "y": 0.2700,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_35",
+                                    "title": "Mary-Ann (1) - Exercising Demons - Michael",
+                                    "description": "Character: Michael\n\nPrerequisites: Complete Complications and Tonya (1) - Pulling Favors\n\nGold Medal Requirements:\n- Contender - Win the race without using shortcuts",
+                                    "x": 0.3079,
+                                    "y": 0.2898,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_26",
+                                        "it_s&f_09"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_36",
+                                    "title": "Nigel (5) - Vinewood Souvenirs - Mark",
+                                    "description": "Character: Trevor\n\nAvailable between 7:00 and 20:00.\n\nGold Medal Requirements:\n- Under Par - Collect the golf club within 30 seconds.\n- Hole in One - Kill Mark with a headshot.\n- Four! - Kill Mark and his 3 security guards.",
+                                    "x": 0.3691,
+                                    "y": 0.3285,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_37",
+                                    "title": "Josh (4) - Breach of Contract",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Dirty Rat - Kill Josh before escaping\n- Hot Pursuit - Escape in the Police Cruiser",
+                                    "x": 0.3726,
+                                    "y": 0.3477,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_38",
+                                    "title": "Nigel (3) - Vinewood Souvenirs - Tyler",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Weed Killer - Take out the Gardener with a stealth attack.\n- Pilferer - Steal the clothes without being detected.",
+                                    "x": 0.3750,
+                                    "y": 0.3557,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_39",
+                                    "title": "A Starlet in Vinewood",
+                                    "description": "Character: Franklin, after finding all 50 Letter Scraps\n\nGold Medal Requirements:\n- Cut! - Kill Dreyfuss",
+                                    "x": 0.3386,
+                                    "y": 0.3627,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_40",
+                                    "title": "Nigel (1) - Nigel and Mrs. Thornhill",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.3687,
+                                    "y": 0.3908,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_41",
+                                    "title": "Dom (1) - Risk Assessment",
+                                    "description": "Character: Franklin\n\nPrerequisite: Complete the Minor Turbulence mission.\n\nGold Medal Requirements:\n- Free Faller - Fall for 7 seconds before opening the parachute\n- Big Air - Get 2 seconds of air during the bicycle race\n- Downhill King - Win the bicycle race against Dom",
+                                    "x": 0.4440,
+                                    "y": 0.4297,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_42",
+                                    "title": "Mary-Ann (3) - Exercising Demons - Trevor",
+                                    "description": "Character: Trevor\n\nPrerequisite: Complete Reuniting the Family\n\nGold Medal Requirements:\n- Good Cyclist - Don't anger Mary Ann by cycling into her\n- Quick Win - Win the race within 01:42",
+                                    "x": 0.5226,
+                                    "y": 0.4294,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_43",
+                                    "title": "Rampage (4) - Military",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Get 45 Kills\n- Get 6 Headshots\n- Destroy 2 Tanks",
+                                    "x": 0.3535,
+                                    "y": 0.5280,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_44",
+                                    "title": "Epsilon (6) - Delivering the Truth",
+                                    "description": "Character: Michael\n\nGold Medal Requirements:\n- Touchdown - Land the Velum without damaging it\n- Zondar the Bridge - Fly under a bridge along Lago Zancudo",
+                                    "x": 0.2218,
+                                    "y": 0.5867,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_45",
+                                    "title": "Epsilon (1) - Seeking the Truth",
+                                    "description": "Character: Michael\n\nPrerequisites: Father/Son & Pulling Favors Missions, and completing the Epsilon Program Identity Evaluation on the epsilonprogram.com website.\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.3252,
+                                    "y": 0.6642,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_46",
+                                    "title": "The Last One",
+                                    "description": "Character: Franklin\n\nPrerequisite: Reach 100% completion\n\nGold Medal Requirements:\n- Wounded - Shoot the Sasquatch 3 times before catching it\n- Hunter - Kill 4 animals whilst chasing the Sasquatch\n- Mr Green - Go to the scat site on foot",
+                                    "x": 0.3538,
+                                    "y": 0.6983,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_47",
+                                    "title": "Death at Sea",
+                                    "description": "Character: Michael\n\nPrerequisite: Complete Blitz Play and purchase the Sonar Collections Dock.\n\nGold Medal Requirements:\n- None\n\nNote: The submarine parts can be found by any character once the mission has been started by Michael.",
+                                    "x": 0.3330,
+                                    "y": 0.7408,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_06",
+                                        "it_property_02"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_48",
+                                    "title": "What Lies Beneath",
+                                    "description": "Character: Michael\n\nPrerequisite: Complete Death at Sea by finding all 30 Submarine Pieces.\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.3346,
+                                    "y": 0.7399,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_s&f_47"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_49",
+                                    "title": "Cletus (2) - Fair Game",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Downwind - Don't get detected by any elk\n- Heart Hunter - Kill 3 elk with a heart shot",
+                                    "x": 0.4035,
+                                    "y": 0.7920,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_50",
+                                    "title": "Mary-Ann (2) - Exercising Demons - Franklin",
+                                    "description": "Character: Franklin\n\nPrerequisite Complete Predator\n\nGold Medal Requirements:\n- Champion - Win the race without using shortcuts",
+                                    "x": 0.3798,
+                                    "y": 0.8275,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_72"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_51",
+                                    "title": "Minute Men (3) - Minute Man Blues",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- What Goes Around - Use the stun gun on Joe and Josef before killing them\n- No Migration - Kill Joe and Josef before they leave the farm",
+                                    "x": 0.4348,
+                                    "y": 0.8244,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_52",
+                                    "title": "Minute Men (2) - An American Welcome",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Downed - Stop the first group of immigrants within 30 seconds\n- Double Downed - Stop the second group of immigrants within 55 seconds\n- Shock and Awe - Use the stun gun to stop all immigrants",
+                                    "x": 0.4571,
+                                    "y": 0.6898,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_53",
+                                    "title": "Minute Men (1) - The Civil Border Patrol",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Mariachi My Ride - Steal the band's Tornado after stunning them\n- Stop the Music - Stop the band within 40 seconds",
+                                    "x": 0.4834,
+                                    "y": 0.6000,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_54",
+                                    "title": "Epsilon (7) - Exercising the Truth",
+                                    "description": "Character: Michael\n\nGold Medal Requirements:\n- None\n\nNote: If you leave the desert, you'll need to start from 0.",
+                                    "x": 0.5013,
+                                    "y": 0.5710,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_55",
+                                    "title": "Mrs. Philips (2) - Damaged Goods",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- None\n\nNote: Deludamol vans can be found in numerous spots throughout Los Santos. If you don't find one here, check hospitals.",
+                                    "x": 0.5053,
+                                    "y": 0.5444,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_56",
+                                    "title": "Rampage (1) - Rednecks",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- Get 45 Kills\n- Get 3 Headshots\n- Destroy 2 Vehicles",
+                                    "x": 0.5731,
+                                    "y": 0.6214,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_57",
+                                    "title": "Cletus (1) - Target Practice",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- 2 for 1 - Kill 2 coyotes with one shot\n- Pop! Pop! - Shoot all 3 tires with an accuracy of at least 75%\n- Bad Signal - Shoot all 3 satellite dishes without missing",
+                                    "x": 0.5946,
+                                    "y": 0.6387,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_58",
+                                    "title": "Mrs. Philips (1)",
+                                    "description": "Character: Trevor\n\nPrerequisite: Complete the main story with ending B or ending C.\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.6234,
+                                    "y": 0.6346,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_59",
+                                    "title": "Omega (1) - Far Out",
+                                    "description": "Character: Franklin\n\nPrerequisite: Complete Fame or Shame\n\nGold Medal Requirements:\n- None",
+                                    "x": 0.6575,
+                                    "y": 0.5983,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [
+                                        "it_missions_55"
+                                    ],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_60",
+                                    "title": "Omega (2) - The Final Frontier",
+                                    "description": "Character: Franklin\n\nPrerequisite: Find all 50 Spaceship Parts\n\nGold Medal Requirements:\n- None\n\nTip: Bring the space buggy to a garage to save it in your vehicle collection.",
+                                    "x": 0.6592,
+                                    "y": 0.5998,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_61",
+                                    "title": "Maude - Special Bonds",
+                                    "description": "Character: Trevor\n\nGold Medal Requirements:\n- None\n\nMaude will provide you with the following Bail Bond Missions. Capture the targets alive for a better reward.\n Bail Bond Target #1. Bail Bond Target #2. Bail Bond Target #3. Bail Bond Target #4.",
+                                    "x": 0.6736,
+                                    "y": 0.6545,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_62",
+                                    "title": "Epsilon (4) - Chasing the Truth",
+                                    "description": "Character: Michael\n\nGold Medal Requirements:\n- Use the Force - Find the alien artifact without the detector\n\nNote: Entering first person mode will automatically equip the detector, failing the gold medal requirement.",
+                                    "x": 0.6038,
+                                    "y": 0.7048,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_s&f_63",
+                                    "title": "Epsilon (3) - Assuming the Truth",
+                                    "description": "Character: Michael\n\nPrerequisite: Donate $5000 through the epsilonprogram.com website after the Accepting the Truth mission.\n\nGold Medal Requirements:\n- none\n\nThe vehicles you need to find and deliver are listed below.\n Pegassi Vacca, Benefactor Surano, Declasse Tornado, Enus Super Diamond, Dinka Double-T",
+                                    "x": 0.6003,
+                                    "y": 0.7036,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_epsilontract",
+                            "elementName": "Epsilon Tract",
+                            "elementIcon": "Used Icons/epsilon-tract",
+                            "elementColor": "#5DC8BD",
+                            "items": [
+                                {
+                                    "itemId": "it_epsilontract_01",
+                                    "title": "Epsilon Tract #2",
+                                    "description": "Under water, in front of the sunken paddle steamer.",
+                                    "x": 0.6730,
+                                    "y": 0.2153,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_02",
+                                    "title": "Epsilon Tract #9",
+                                    "description": "On top of the Maze Bank Tower.",
+                                    "x": 0.4549,
+                                    "y": 0.2561,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_03",
+                                    "title": "Epsilon Tract #5",
+                                    "description": "At the base of the church on the corner of San Andreas Avenue and Ginger Street.",
+                                    "x": 0.3960,
+                                    "y": 0.2697,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_04",
+                                    "title": "Epsilon Tract #10",
+                                    "description": "Near a tombstone in the cemetery.",
+                                    "x": 0.3197,
+                                    "y": 0.3107,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_04",
+                                    "title": "Epsilon Tract #10",
+                                    "description": "Near a tombstone in the cemetery.",
+                                    "x": 0.3197,
+                                    "y": 0.3107,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_05",
+                                    "title": "Epsilon Tract #7",
+                                    "description": "Next to the entrance of the Mansion.",
+                                    "x": 0.3127,
+                                    "y": 0.3598,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_06",
+                                    "title": "Epsilon Tract #4",
+                                    "description": "On the steps leading up the door halfway through the tunnel.",
+                                    "x": 0.4371,
+                                    "y": 0.7066,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_07",
+                                    "title": "Epsilon Tract #6",
+                                    "description": "Down on the dock near the Dinghy.",
+                                    "x": 0.3290,
+                                    "y": 0.7420,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_08",
+                                    "title": "Epsilon Tract #8",
+                                    "description": "Near the base of the very tall tree behind the wooden telescope platform.",
+                                    "x": 0.4917,
+                                    "y": 0.7717,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_09",
+                                    "title": "Epsilon Tract #1",
+                                    "description": "Near the cable car station, on top of the wooden telescope platform.",
+                                    "x": 0.4998,
+                                    "y": 0.7750,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_epsilontract_10",
+                                    "title": "Epsilon Tract #3",
+                                    "description": "Epsilon Tract",
+                                    "x": 0.4592,
+                                    "y": 0.9394,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_peyoteplant",
+                            "elementName": "Peyote Plant",
+                            "elementIcon": "Used Icons/epsilon-tract",
+                            "elementColor": "#5DC8BD",
+                            "items": [
+                                {
+                                    "itemId": "it_epsilontract_01",
+                                    "title": "Epsilon Tract #2",
+                                    "description": "Under water, in front of the sunken paddle steamer.",
+                                    "x": 0.6730,
+                                    "y": 0.2153,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
                                     "youtubeVideo": ""
                                 }
                             ]
@@ -6201,6 +7058,76 @@
                                     "description": "Lookout Point",
                                     "x": 0.4761,
                                     "y": 0.0623,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mapId": "map_online",
+            "mapName": "Online Map",
+            "atlasImage": "Maps/GTAV-atlas",
+            "atlasColor": "#13A7D2",
+            "satelliteImage": "Maps/GTAV-satellite",
+            "satelliteColor": "#133D6B",
+            "roadmapImage": "Maps/GTAV-roadmap",
+            "roadmapColor": "#1863AD",
+            "sections": [
+                {
+                    "sectionId": "sec_onlineplaces",
+                    "sectionName": "Places",
+                    "elements": [
+                        {
+                            "elementId": "el_executiveoffice",
+                            "elementName": "Executive Office",
+                            "elementIcon": "Used Icons/building",
+                            "elementColor": "#C259B6",
+                            "items": [
+                                {
+                                    "itemId": "it_executiveoffice_01",
+                                    "title": "Maze Bank Tower",
+                                    "description": "Cost: $4,000,000\nGarage: Up to 60 vehicles\n\nAdded to GTA Online as part of 2016's Further Adventures in Finance and Felony update. Purchased from the Dynasty 8 Executive website.",
+                                    "x": 0.4540,
+                                    "y": 0.2616,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_executiveoffice_02",
+                                    "title": "Arcadius Business Center",
+                                    "description": "Cost: $2,250,000\nGarage: Up to 60 vehicles\n\nAdded to GTA Online as part of 2016's Further Adventures in Finance and Felony update. Purchased from the Dynasty 8 Executive website.",
+                                    "x": 0.4467,
+                                    "y": 0.2789,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_executiveoffice_03",
+                                    "title": "Maze Bank West",
+                                    "description": "Cost: $1,000,000\nGarage: Up to 60 vehicles\n\nAdded to GTA Online as part of 2016's Further Adventures in Finance and Felony update. Purchased from the Dynasty 8 Executive website.",
+                                    "x": 0.3472,
+                                    "y": 0.2872,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_executiveoffice_04",
+                                    "title": "Lombank West",
+                                    "description": "Cost: $3,100,000\nGarage: Up to 60 vehicles\n\nAdded to GTA Online as part of 2016's Further Adventures in Finance and Felony update. Purchased from the Dynasty 8 Executive website.",
+                                    "x": 0.3318,
+                                    "y": 0.2793,
                                     "iconOverride": "",
                                     "itemColorOverride": "",
                                     "relatedItems": [],
