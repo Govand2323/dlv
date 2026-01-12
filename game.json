@@ -1,11 +1,12 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 8,
+    "dataVersion": 9,
     "updateNotes": [
-        "Added Strangers & Freaks objectives",
-        "Added Online Map, click on map selection dropdown above",
-        "More Online Map updates coming this week"
+        "Added more pins to the Online Map",
+        "11 Bunkers added to the online map",
+        "9 Facilities added to the online map",
+        "5 Hangers added to the online map"
     ],
     "loadTime": "300",
     "discord": "https://discord.gg/EzzD4VxPwg",
@@ -7128,6 +7129,305 @@
                                     "description": "Cost: $3,100,000\nGarage: Up to 60 vehicles\n\nAdded to GTA Online as part of 2016's Further Adventures in Finance and Felony update. Purchased from the Dynasty 8 Executive website.",
                                     "x": 0.3318,
                                     "y": 0.2793,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_facility",
+                            "elementName": "Facility",
+                            "elementIcon": "Random/bars",
+                            "elementColor": "#C259B6",
+                            "items": [
+                                {
+                                    "itemId": "it_facility_01",
+                                    "title": "Land Act Reservoir Facility",
+                                    "description": "Cost: $2,950,000\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.6099,
+                                    "y": 0.3471,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_facility_02",
+                                    "title": "Ron Alternates Wind Farm Facility",
+                                    "description": "Cost: $1,855,000\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.6261,
+                                    "y": 0.4705,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_facility_03",
+                                    "title": "Lago Zancudo Facility",
+                                    "description": "Cost: $1,670,000\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.2822,
+                                    "y": 0.5260,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_facility_04",
+                                    "title": "Route 68 Facility",
+                                    "description": "Cost: $2,312,500\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.4602,
+                                    "y": 0.5373,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_facility_05",
+                                    "title": "Zancudo River Facility",
+                                    "description": "Cost: $2,100,000\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.4619,
+                                    "y": 0.5973,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_facility_06",
+                                    "title": "Grand Senora Desert Facility",
+                                    "description": "Cost: $2,525,000\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.5627,
+                                    "y": 0.5547,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_facility_07",
+                                    "title": "Sandy Shores Facility",
+                                    "description": "Cost: $2,740,000\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.6804,
+                                    "y": 0.6419,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_facility_08",
+                                    "title": "Mount Gordo Facility",
+                                    "description": "Cost: $1,465,000\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.7305,
+                                    "y": 0.7679,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_facility_09",
+                                    "title": "Paleto Bay Facility",
+                                    "description": "Cost: $1,250,000\n\nAdded to GTA Online as part of 2017's Doomsday Heist update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.4626,
+                                    "y": 0.8775,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_bunker",
+                            "elementName": "Bunker",
+                            "elementIcon": "Used Icons/bunker",
+                            "elementColor": "#C259B6",
+                            "items": [
+                                {
+                                    "itemId": "it_bunker_01",
+                                    "title": "Chumash Bunker",
+                                    "description": "Cost: $1,650,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.2039,
+                                    "y": 0.4367,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_02",
+                                    "title": "Lago Zancudo Bunker",
+                                    "description": "Cost: $1,550,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.2128,
+                                    "y": 0.5903,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_03",
+                                    "title": "Paleto Forest Bunker",
+                                    "description": "Cost: $1,165,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.3916,
+                                    "y": 0.8045,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_04",
+                                    "title": "Raton Canyon Bunker",
+                                    "description": "Cost: $1,450,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.4280,
+                                    "y": 0.6739,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_05",
+                                    "title": "Grapeseed Bunker",
+                                    "description": "Cost: $1,750,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.6054,
+                                    "y": 0.7029,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_06",
+                                    "title": "Farmhouse Bunker",
+                                    "description": "Cost: $2,375,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.5846,
+                                    "y": 0.5050,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_07",
+                                    "title": "Route 68 Bunker",
+                                    "description": "Cost: $1,950,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.4594,
+                                    "y": 0.5654,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_08",
+                                    "title": "Grand Senora Oilfields Bunker",
+                                    "description": "Cost: $2,035,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.4977,
+                                    "y": 0.5661,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_09",
+                                    "title": "Grand Senora Desert Bunker",
+                                    "description": "Cost: $2,120,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.5241,
+                                    "y": 0.5679,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_10",
+                                    "title": "Smoke Tree Road Bunker",
+                                    "description": "Cost: $2,205,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.5241,
+                                    "y": 0.5679,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_bunker_11",
+                                    "title": "Thomson Scrapyard Bunker",
+                                    "description": "Cost: $2,290,000\n\nAdded to GTA Online as part of 2017's Gunrunning update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.5241,
+                                    "y": 0.5679,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_hanger",
+                            "elementName": "Hanger",
+                            "elementIcon": "Used Icons/hanger",
+                            "elementColor": "#C259B6",
+                            "items": [
+                                {
+                                    "itemId": "it_hanger_01",
+                                    "title": "LSIA Hangar 1",
+                                    "description": "Cost: $1,525,000\n\nAdded to GTA Online as part of 2017's Smuggler's Run update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.3654,
+                                    "y": 0.0499,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hanger_02",
+                                    "title": "LSIA Hangar A17",
+                                    "description": "Cost: $1,200,000\n\nAdded to GTA Online as part of 2017's Smuggler's Run update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.3453,
+                                    "y": 0.0615,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hanger_03",
+                                    "title": "Fort Zancudo Hangar 3497",
+                                    "description": "Cost: $2,085,000\n\nAdded to GTA Online as part of 2017's Smuggler's Run update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.3076,
+                                    "y": 0.5762,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hanger_04",
+                                    "title": "Fort Zancudo Hangar A2",
+                                    "description": "Cost: $3,250,000\n\nAdded to GTA Online as part of 2017's Smuggler's Run update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.2967,
+                                    "y": 0.5814,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hanger_05",
+                                    "title": "Fort Zancudo Hangar 3499",
+                                    "description": "Cost: $2,650,000\n\nAdded to GTA Online as part of 2017's Smuggler's Run update. Purchased through the Maze Bank Foreclosures website.",
+                                    "x": 0.2602,
+                                    "y": 0.5896,
                                     "iconOverride": "",
                                     "itemColorOverride": "",
                                     "relatedItems": [],
