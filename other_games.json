@@ -5,18 +5,26 @@
             "id": "gtav",
             "title": "Grand Theft Auto V",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/250px-Grand_Theft_Auto_V.png",
-            "androidUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.vmap",
-            "iosUrl": "https://apps.apple.com/us/app/mapwizard-v-map-tracker/id6757406394",
+            "androidUrl": "https://play.google.com/store/apps/details?id=com.mapwizard.gtav",
+            "iosUrl": "https://apps.apple.com/app/id123456789",
             "status": "available"
         },
-    ],
-    "upcomingGames": [
         {
             "id": "rdr2",
             "title": "Red Dead Redemption 2",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Red_Dead_Redemption_II.jpg/250px-Red_Dead_Redemption_II.jpg",
             "androidUrl": "https://play.google.com/store/apps/details?id=com.mapwizard.rdr2",
             "iosUrl": "https://apps.apple.com/app/id987654321",
+            "status": "available"
+        }
+    ],
+    "upcomingGames": [
+        {
+            "id": "gta6",
+            "title": "Grand Theft Auto VI",
+            "imageUrl": "https://static.wikia.nocookie.net/gtawiki/images/a/a5/Artwork-Trailer2Thumbnail2-GTAVI.jpg/revision/latest?cb=20250506170600",
+            "androidUrl": "",
+            "iosUrl": "",
             "status": "upcoming"
         },
         {
