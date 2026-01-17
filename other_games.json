@@ -23,8 +23,8 @@
             "id": "gta6",
             "title": "Grand Theft Auto VI",
             "imageUrl": "https://yourcdn.com/images/gta6.jpg",
-            "androidUrl": "",
-            "iosUrl": "",
+            "androidUrl": "https://play.google.com/store/apps/details?id=com.mapwizard.gtav",
+            "iosUrl": "https://apps.apple.com/app/id123456789",
             "status": "upcoming"
         },
         {
