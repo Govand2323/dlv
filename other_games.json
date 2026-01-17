@@ -1,22 +1,7 @@
 {
     "lastUpdated": "2026-01-17",
     "games": [
-        {
-            "id": "gtav",
-            "title": "Grand Theft Auto V",
-            "imageUrl": "https://yourcdn.com/images/gtav.jpg",
-            "androidUrl": "https://play.google.com/store/apps/details?id=com.mapwizard.gtav",
-            "iosUrl": "https://apps.apple.com/app/id123456789",
-            "status": "available"
-        },
-        {
-            "id": "rdr2",
-            "title": "Red Dead Redemption 2",
-            "imageUrl": "https://yourcdn.com/images/rdr2.jpg",
-            "androidUrl": "https://play.google.com/store/apps/details?id=com.mapwizard.rdr2",
-            "iosUrl": "https://apps.apple.com/app/id987654321",
-            "status": "available"
-        }
+        
     ],
     "upcomingGames": [
         {
