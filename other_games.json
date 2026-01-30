@@ -1,9 +1,47 @@
 {
-    "lastUpdated": "2026-01-17",
+    "lastUpdated": "2026-01-31",
     "games": [
-
+        {
+            "id": "gtav",
+            "title": "GTA V Map, Tracker & Cheats",
+            "imageUrl": "https://static.wikia.nocookie.net/gtawiki/images/7/76/CoverArt-GTAV.png/revision/latest?cb=20250708181846",
+            "androidUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.vmap",
+            "iosUrl": "https://apps.apple.com/us/app/mapwizard-v-map-tracker/id6757406394",
+            "status": "available"
+        },
+        {
+            "id": "expd33",
+            "title": "Clair Obscur: Expedition 33 Map & Tracker",
+            "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2217/15dd9f9368aa87c9b2dcaf58e1856e8cca01b6e595331858.jpg",
+            "androidUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.exp33",
+            "iosUrl": "https://apps.apple.com/us/app/mapwizard-epedition33-map/id6758246468",
+            "status": "available"
+        }
     ],
     "upcomingGames": [
-        
+        {
+            "id": "rdr2",
+            "title": "Red Dead Redemption 2",
+            "imageUrl": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+            "androidUrl": "",
+            "iosUrl": "",
+            "status": "upcoming"
+        },
+        {
+            "id": "rdr1",
+            "title": "Red Dead Redemption 1",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Red_Dead_Redemption.jpg/250px-Red_Dead_Redemption.jpg",
+            "androidUrl": "",
+            "iosUrl": "",
+            "status": "upcoming"
+        },
+        {
+            "id": "grounded2",
+            "title": "Grounded 2",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Grounded_2_cover.jpg",
+            "androidUrl": "",
+            "iosUrl": "",
+            "status": "upcoming"
+        }
     ]
 }
