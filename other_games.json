@@ -16,17 +16,17 @@
             "androidUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.exp33",
             "iosUrl": "https://apps.apple.com/us/app/mapwizard-epedition33-map/id6758246468",
             "status": "available"
-        }
-    ],
-    "upcomingGames": [
+        },
         {
             "id": "rdr2",
             "title": "Red Dead Redemption 2",
             "imageUrl": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
-            "androidUrl": "",
-            "iosUrl": "",
-            "status": "upcoming"
-        },
+            "androidUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.rdr2",
+            "iosUrl": "https://apps.apple.com/us/app/mapwizard-rdr2-map-tracker/id6761485334",
+            "status": "available"
+        }
+    ],
+    "upcomingGames": [
         {
             "id": "rdr1",
             "title": "Red Dead Redemption 1",
