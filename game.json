@@ -1,15 +1,13 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 11,
+    "dataVersion": 12,
     "updateNotes": [
         "Improved map accuracy for Los Santos",
-        "New collectibles added",
-        "Added 50 Stunt Locations",
-        "Added 50 Under The Bridge locations",
-        "Added 50 Spaceship Parts loacations"
+        "New items added to the map",
+        "Reduced showing ads to 10 mintes interval :)"
     ],
-    "loadTime": "300",
+    "loadTime": "600",
     "discord": "https://discord.gg/EzzD4VxPwg",
     "youtube": "https://www.youtube.com/@Mr23TVx",
     "website": "",
