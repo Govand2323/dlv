@@ -28,6 +28,14 @@
     ],
     "upcomingGames": [
         {
+            "id": "crimson",
+            "title": "Crimson Desert",
+            "imageUrl": "https://cdn.loaded.com/500x706/media/catalog/product/c/r/crimson_desert_pc_new-2.png",
+            "androidUrl": "",
+            "iosUrl": "",
+            "status": "upcoming"
+        },
+        {
             "id": "rdr1",
             "title": "Red Dead Redemption 1",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Red_Dead_Redemption.jpg/250px-Red_Dead_Redemption.jpg",
