@@ -1,16 +1,24 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "dataVersion": 12,
+    "latestAndroidVersion": "1.0.1",
+    "minAndroidSupportedVersion": "1.0.1",
+    "latestiOSVersion": "1.0.1",
+    "miniOSSupportedVersion": "1.0.1",
+    "forceUpdate": false,
+    "updateMessage": "A new version is required to continue playing.",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.vmap",
+    "appStoreUrl": "https://apps.apple.com/us/app/mapwizard-v-map-tracker/id6757406394",
+    "dataVersion": 13,
     "updateNotes": [
         "Improved map accuracy for Los Santos",
-        "New items added to the map",
-        "Reduced showing ads to 10 mintes interval :)"
+        "New app version is available"
     ],
     "loadTime": "600",
     "discord": "https://discord.gg/EzzD4VxPwg",
     "youtube": "https://www.youtube.com/@Mr23TVx",
     "website": "",
+    "reportform": "",
     "maps": [
         {
             "mapId": "map_ls",
@@ -31,6 +39,7 @@
                             "elementName": "Missions",
                             "elementIcon": "Used Icons/letterm",
                             "elementColor": "#C03639",
+                            "isVisible": true,
                             "items": [
                                 {
                                     "itemId": "it_missions_01",
@@ -2285,7 +2294,7 @@
                             "elementId": "el_ammunation",
                             "elementName": "Ammu-Nation",
                             "elementIcon": "Guns/HandGun/Pistol6e",
-                            "elementColor": "#42942C",
+                            "elementColor": "#F155CE",
                             "items": [
                                 {
                                     "itemId": "it_ammunation_01",
@@ -2414,7 +2423,7 @@
                             "elementId": "el_clothing",
                             "elementName": "Clothing",
                             "elementIcon": "Used Icons/Tshirt",
-                            "elementColor": "#42942C",
+                            "elementColor": "#F155CE",
                             "items": [
                                 {
                                     "itemId": "it_clothing_01",
@@ -2587,7 +2596,7 @@
                             "elementId": "el_atm",
                             "elementName": "ATM",
                             "elementIcon": "Used Icons/atm",
-                            "elementColor": "#42942C",
+                            "elementColor": "#F155CE",
                             "items": [
                                 {
                                     "itemId": "it_atm_01",
@@ -2826,7 +2835,7 @@
                             "elementId": "el_store",
                             "elementName": "Convenience Store",
                             "elementIcon": "Icon-Symbols/Merchant/Shopping-Cart",
-                            "elementColor": "#42942C",
+                            "elementColor": "#F155CE",
                             "items": [
                                 {
                                     "itemId": "it_store_01",
@@ -3054,7 +3063,7 @@
                             "elementId": "el_automotiveshop",
                             "elementName": "Automotive Shop",
                             "elementIcon": "Used Icons/car",
-                            "elementColor": "#42942C",
+                            "elementColor": "#F155CE",
                             "items": [
                                 {
                                     "itemId": "it_automotiveshop_01",
@@ -3117,7 +3126,7 @@
                             "elementId": "el_barber",
                             "elementName": "Barber",
                             "elementIcon": "Icon-Symbols/Character-Creation/Hair/Hair-Scissors",
-                            "elementColor": "#42942C",
+                            "elementColor": "#F155CE",
                             "items": [
                                 {
                                     "itemId": "it_barbershop_01",
@@ -3202,7 +3211,7 @@
                             "elementId": "el_tatoo",
                             "elementName": "Tattoo",
                             "elementIcon": "Icon-Symbols/Art/Color-Picker",
-                            "elementColor": "#42942C",
+                            "elementColor": "#F155CE",
                             "items": [
                                 {
                                     "itemId": "it_tatoo_01",
@@ -3287,7 +3296,7 @@
                             "elementId": "el_food&drink",
                             "elementName": "Food & Drink",
                             "elementIcon": "Used Icons/fast-food",
-                            "elementColor": "#42942C",
+                            "elementColor": "#F155CE",
                             "items": [
                                 {
                                     "itemId": "it_food&drink_01",
@@ -4606,7 +4615,7 @@
                             "elementId": "el_strangesrs&freaks",
                             "elementName": "Strangers & Freaks",
                             "elementIcon": "Used Icons/man",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#018934",
                             "items": [
                                 {
                                     "itemId": "it_s&f_01",
@@ -5352,7 +5361,7 @@
                             "elementId": "el_epsilontract",
                             "elementName": "Epsilon Tract",
                             "elementIcon": "Used Icons/epsilon-tract",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#249BB7",
                             "items": [
                                 {
                                     "itemId": "it_epsilontract_01",
@@ -5481,7 +5490,7 @@
                             "elementId": "el_peyoteplant",
                             "elementName": "Peyote Plant",
                             "elementIcon": "Used Icons/peyote",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#249BB7",
                             "items": [
                                 {
                                     "itemId": "it_peyote_01",
@@ -5786,7 +5795,7 @@
                             "elementId": "el_hiddenpackage",
                             "elementName": "Hidden Package",
                             "elementIcon": "Used Icons/hidden-package",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#018934",
                             "items": [
                                 {
                                     "itemId": "it_hiddenpackage_01",
@@ -5926,7 +5935,7 @@
                             "elementId": "el_knifeflight",
                             "elementName": "Knife Flight",
                             "elementIcon": "Used Icons/knife-flight",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#018934",
                             "items": [
                                 {
                                     "itemId": "it_knifeflight_01",
@@ -6099,7 +6108,7 @@
                             "elementId": "el_submarinepart",
                             "elementName": "Submarine Part",
                             "elementIcon": "Used Icons/submarine",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#018934",
                             "items": [
                                 {
                                     "itemId": "it_submarinepart_01",
@@ -6437,7 +6446,7 @@
                             "elementId": "el_nuclearwaste",
                             "elementName": "Nuclear Waste",
                             "elementIcon": "Used Icons/nuclear",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#018934",
                             "items": [
                                 {
                                     "itemId": "it_nuclearwaste_01",
@@ -6775,7 +6784,7 @@
                             "elementId": "el_stuntlocation",
                             "elementName": "Stunt Location",
                             "elementIcon": "Used Icons/stunt-location",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#018934",
                             "items": [
                                 {
                                     "itemId": "it_stuntlocation_01",
@@ -7333,7 +7342,7 @@
                             "elementId": "el_underthebridge",
                             "elementName": "Under The Bridge",
                             "elementIcon": "Used Icons/bridge",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#018934",
                             "items": [
                                 {
                                     "itemId": "it_underbridge_01",
@@ -7891,7 +7900,7 @@
                             "elementId": "el_spaceshipparts",
                             "elementName": "Spaceship Parts",
                             "elementIcon": "Used Icons/spaceship-part",
-                            "elementColor": "#5DC8BD",
+                            "elementColor": "#249BB7",
                             "items": [
                                 {
                                     "itemId": "it_spaceshippart_01",
@@ -8455,7 +8464,8 @@
                             "elementId": "el_buildings",
                             "elementName": "Building",
                             "elementIcon": "Used Icons/building",
-                            "elementColor": "#9C307F",
+                            "elementColor": "#6F60B0",
+                            "isVisible": false,
                             "items": [
                                 {
                                     "itemId": "it_building_01",
@@ -9511,6 +9521,7 @@
                             "elementName": "Property",
                             "elementIcon": "Used Icons/property",
                             "elementColor": "#9C307F",
+                            "isVisible": false,
                             "items": [
                                 {
                                     "itemId": "it_property_01",
@@ -9750,6 +9761,7 @@
                             "elementName": "Mountain Peak",
                             "elementIcon": "Used Icons/mountain",
                             "elementColor": "#9C307F",
+                            "isVisible": false,
                             "items": [
                                 {
                                     "itemId": "it_mountainpeak_01",
@@ -9846,6 +9858,7 @@
                             "elementName": "Lookout Point",
                             "elementIcon": "Used Icons/lookout-point",
                             "elementColor": "#9C307F",
+                            "isVisible": false,
                             "items": [
                                 {
                                     "itemId": "it_lookoutpoint_01",
@@ -10007,6 +10020,43 @@
                                     "description": "Lookout Point",
                                     "x": 0.4761,
                                     "y": 0.0623,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mapId": "map_yankton",
+            "mapName": "North Yankton",
+            "atlasImage": "",
+            "atlasColor": "#13A7D2",
+            "satelliteImage": "",
+            "satelliteColor": "#133D6B",
+            "roadmapImage": "Icons/GtaMap Icon",
+            "roadmapColor": "#353535",
+            "sections": [
+                {
+                    "sectionId": "sec_nymissions",
+                    "sectionName": "Missions",
+                    "elements": [
+                        {
+                            "elementId": "el_nymissions",
+                            "elementName": "Missions",
+                            "elementIcon": "Used Icons/letterm",
+                            "elementColor": "#C259B6",
+                            "items": [
+                                {
+                                    "itemId": "it_nymissions_01",
+                                    "title": "Prologue",
+                                    "description": "Game automatically starts with this mission.",
+                                    "x": 0.6099,
+                                    "y": 0.3471,
                                     "iconOverride": "",
                                     "itemColorOverride": "",
                                     "relatedItems": [],
