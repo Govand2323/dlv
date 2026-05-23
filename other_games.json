@@ -24,17 +24,17 @@
             "androidUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.rdr2",
             "iosUrl": "https://apps.apple.com/us/app/mapwizard-rdr2-map-tracker/id6761485334",
             "status": "available"
-        }
-    ],
-    "upcomingGames": [
+        },
         {
             "id": "crimson",
             "title": "Crimson Desert",
             "imageUrl": "https://cdn.loaded.com/500x706/media/catalog/product/c/r/crimson_desert_pc_new-2.png",
-            "androidUrl": "",
-            "iosUrl": "",
-            "status": "upcoming"
-        },
+            "androidUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.cdp",
+            "iosUrl": "https://apps.apple.com/us/app/mapwizard-crimson-d-pywel-map/id6767604357",
+            "status": "available"
+        }
+    ],
+    "upcomingGames": [
         {
             "id": "rdr1",
             "title": "Red Dead Redemption 1",
