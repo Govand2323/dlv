@@ -9,10 +9,10 @@
     "updateMessage": "A new version is required to continue playing.",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.vmap",
     "appStoreUrl": "https://apps.apple.com/us/app/mapwizard-v-map-tracker/id6757406394",
-    "dataVersion": 14,
+    "dataVersion": 15,
     "updateNotes": [
         "Improved map accuracy for Los Santos",
-        "New app version is available"
+        "New collectibles added"
     ],
     "loadTime": "600",
     "discord": "https://discord.gg/EzzD4VxPwg",
@@ -32,12 +32,12 @@
             "sections": [
                 {
                     "sectionId": "sec_quests",
-                    "sectionName": "QUESTS",
+                    "sectionName": "MISSIONS & QUESTS",
                     "elements": [
                         {
                             "elementId": "el_missions",
                             "elementName": "Missions",
-                            "elementIcon": "Used Icons/letterm",
+                            "elementIcon": "Icon-Symbols/Stars/Star",
                             "elementColor": "#883ACF",
                             "isVisible": true,
                             "items": [
@@ -959,7 +959,7 @@
                         {
                             "elementId": "el_randomevent",
                             "elementName": "Random Event",
-                            "elementIcon": "Icon-Symbols/Stars/Star",
+                            "elementIcon": "Icon-Symbols/Notifications/Help-Question",
                             "elementColor": "#C03639",
                             "items": [
                                 {
@@ -2288,7 +2288,7 @@
                 },
                 {
                     "sectionId": "sec_locations",
-                    "sectionName": "LOCATIONS",
+                    "sectionName": "Stores",
                     "elements": [
                         {
                             "elementId": "el_ammunation",
@@ -3689,7 +3689,7 @@
                 },
                 {
                     "sectionId": "sec_activities",
-                    "sectionName": "ACTIVITIES",
+                    "sectionName": "GAMES & ACTIVITIES",
                     "elements": [
                         {
                             "elementId": "el_darts",
@@ -8392,7 +8392,7 @@
                 },
                 {
                     "sectionId": "sec_places",
-                    "sectionName": "PLACES",
+                    "sectionName": "PLACES & BUILDINGS",
                     "elements": [
                         {
                             "elementId": "el_buildings",
@@ -9982,7 +9982,7 @@
                         {
                             "elementId": "el_nymissions",
                             "elementName": "Missions",
-                            "elementIcon": "Used Icons/letterm",
+                            "elementIcon": "Icon-Symbols/Stars/Star",
                             "elementColor": "#883ACF",
                             "items": [
                                 {
