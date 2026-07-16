@@ -1,18 +1,19 @@
 {
     "gameId": "gta_v",
     "gameName": "GTA V",
-    "latestAndroidVersion": "1.0.1",
-    "minAndroidSupportedVersion": "1.0.1",
-    "latestiOSVersion": "1.0.1",
-    "miniOSSupportedVersion": "1.0.1",
-    "forceUpdate": false,
-    "updateMessage": "A new version is required to continue playing.",
+    "latestAndroidVersion": "1.7.1",
+    "minAndroidSupportedVersion": "1.7.1",
+    "latestiOSVersion": "1.7.1",
+    "miniOSSupportedVersion": "1.7.1",
+    "forceUpdate": true,
+    "updateMessage": "A new version is required to continue using the map. New features added, pins improved",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.vmap",
     "appStoreUrl": "https://apps.apple.com/us/app/mapwizard-v-map-tracker/id6757406394",
-    "dataVersion": 15,
+    "dataVersion": 17,
     "updateNotes": [
-        "Improved map accuracy for Los Santos",
-        "New collectibles added"
+        "Added automatic found pins dimmer on the map",
+        "Added screen timout restriction to enjoy usage",
+        "Smoothened the map interaction."
     ],
     "loadTime": "600",
     "discord": "https://discord.gg/EzzD4VxPwg",
