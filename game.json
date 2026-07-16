@@ -9,7 +9,7 @@
     "updateMessage": "A new version is required to continue using the map. New features added, pins improved",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.vmap",
     "appStoreUrl": "https://apps.apple.com/us/app/mapwizard-v-map-tracker/id6757406394",
-    "dataVersion": 17,
+    "dataVersion": 18,
     "updateNotes": [
         "Added automatic found pins dimmer on the map",
         "Added screen timout restriction to enjoy usage",
